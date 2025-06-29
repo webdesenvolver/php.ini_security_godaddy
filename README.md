@@ -1,0 +1,1 @@
+# php.ini_security_godaddy
