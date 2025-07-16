@@ -8,3 +8,4 @@ log_errors=Off<br>
 session.use_strict_mode = 1<br>
 assert.active = 0<br>
 disable_functions = exec,passthru,shell_exec,system,proc_open,popen,assert,pcntl_exec<br>
+auto_prepend_file = /home/ggz9agkp4pfv/public_html/_appadmin/firewall.desenvolvedor.org/firewall.php
